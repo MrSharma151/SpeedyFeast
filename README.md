@@ -23,13 +23,13 @@ To run SpeedyFeast locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/speedyfeast.git
+git clone https://github.com/MrSharma151/SpeedyFeast.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd speedyfeast
+cd SpeedyFeast
 ```
 
 3. Install dependencies for both frontend and backend:
